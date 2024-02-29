@@ -1,0 +1,15 @@
+*.sln
+*.csproj
+**/.idea
+**/obj/
+**/bin/
+**.lock
+**.suo
+**.futdchache.v2
+**.vsidx
+**.metadata.v7.bin
+
+**.dtbchache.v2
+**/futdchache.v2/
+**.v2
+**.bin
